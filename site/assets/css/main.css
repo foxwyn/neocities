@@ -1,0 +1,33 @@
+/** @license
+  * ================================================================
+  * Vulpine Arcadia Theme
+  * https://github.com/foxwyn/neocities
+  * ================================================================
+  * This Source Code Form is subject to the terms of the Mozilla Public
+  * License, v. 2.0. If a copy of the MPL was not distributed with this
+  * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+  * ================================================================
+  */
+.fontstack {
+  color: hsl(30, 100%, 10%);
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+body {
+  background-color: hsl(30, 100%, 95%);
+  color: hsl(30, 100%, 10%);
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+main,
+section,
+article {
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  max-width: 70ch;
+}
